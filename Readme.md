@@ -5,7 +5,7 @@ A simple chat app built using websockets
 
 ## WebSocket Schema
 
-### What the user can send
+### What the user can send  ### git init
 
 <details>
 <summary><strong>Join a Room</strong></summary>
